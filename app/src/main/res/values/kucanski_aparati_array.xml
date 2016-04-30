@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kucanski_aparati">
+        <item>Perilica Rublja</item>
+        <item>Perilica Suđa</item>
+        <item>Kosilica</item>
+        <item>Auto Renault</item>
+        <item>Auto Opel Vectra</item>
+        <item>Vodovod</item>
+        <item>Plinovod</item>
+        <item>Strujovod</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KucanskiAparati</string>
+    <string name="kucanski_aparat">Kućanski aparat</string>
+    <string name="struja">Struja</string>
+    <string name="ima">Ima</string>
+    <string name="nema">Nema</string>
+    <string name="voda">Voda</string>
+    <string name="plin">Plin</string>
+</resources>
